@@ -1175,9 +1175,9 @@ Until a license is added, the project should be treated as **all rights reserved
 
 **Developer · DSA Enthusiast · Full-Stack Developer · Cloud Learner**
 
-[![GitHub](https://img.shields.io/badge/GitHub-priyanshushe-181717?style=for-the-badge&logo=github)](https://github.com/priyanshushe)
+[![GitHub](https://img.shields.io/badge/GitHub-Preetiraj01-181717?style=for-the-badge&logo=github)](https://github.com/Preetiraj01)
 
-[![EcoSphere](https://img.shields.io/badge/EcoSessionTree-Repository-2ea44f?style=for-the-badge&logo=github)](https://github.com/Preetiraj01/EcoSphere)
+[![EcoSphere](https://img.shields.io/badge/EcoSphere-Repository-2ea44f?style=for-the-badge&logo=github)](https://github.com/Preetiraj01/EcoSphere)
 
 </div>
 
