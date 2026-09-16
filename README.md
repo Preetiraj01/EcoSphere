@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌱 EcoSessionTree
+# 🌱 EcoSphere
 
 ## Track Your Carbon. Grow Your Eco Twin. Build a Greener Future.
 
@@ -51,9 +51,9 @@
 
 ## 🌍 About the Project
 
-**EcoSessionTree** is a sustainability-focused web application designed to make carbon-footprint tracking **simple, interactive, and engaging**.
+**EcoSphere** is a sustainability-focused web application designed to make carbon-footprint tracking **simple, interactive, and engaging**.
 
-Instead of presenting environmental impact as only a number, EcoSessionTree turns everyday lifestyle information into an interactive sustainability experience.
+Instead of presenting environmental impact as only a number, EcoSphere turns everyday lifestyle information into an interactive sustainability experience.
 
 The application allows users to:
 
@@ -77,9 +77,9 @@ The application allows users to:
 
 ---
 
-## 🎯 Why EcoSessionTree?
+## 🎯 Why EcoSphere?
 
-Traditional carbon calculators often stop after displaying a result. EcoSessionTree adds an interactive feedback loop that connects **measurement → feedback → action → progress**.
+Traditional carbon calculators often stop after displaying a result. EcoSphere adds an interactive feedback loop that connects **measurement → feedback → action → progress**.
 
 ```text
 Daily Lifestyle
@@ -210,6 +210,7 @@ Browser geolocation can provide coordinates used for:
 - City and state information
 - Weather information
 
+
 ### 📚 11. Daily Eco Facts
 
 The application can display sustainability-related facts, tips, and environmental analogies on the home page.
@@ -218,7 +219,7 @@ The application can display sustainability-related facts, tips, and environmenta
 
 ## 🧮 Carbon Footprint Calculation
 
-EcoSessionTree divides estimated emissions into four major categories.
+EcoSphere divides estimated emissions into four major categories.
 
 ### ⚡ Electricity Emissions
 
@@ -324,7 +325,7 @@ Recycling-related factors:
 
 ## 🌳 Eco Twin & Gamification
 
-EcoSessionTree connects environmental performance with a virtual ecosystem.
+EcoSphere connects environmental performance with a virtual ecosystem.
 
 ### 🌱 Tree Growth Stages
 
@@ -469,7 +470,7 @@ The suggestions section provides:
 ## 📁 Project Structure
 
 ```text
-EcoSessionTree/
+EcoSphere/
 │
 ├── app.py
 ├── eco_twin.db
@@ -511,7 +512,7 @@ EcoSessionTree/
 
 ## 🗄️ Database Design
 
-EcoSessionTree uses **SQLite** for persistent application data.
+EcoSphere uses **SQLite** for persistent application data.
 
 ### 👤 `users`
 
@@ -625,8 +626,8 @@ api_monthly_stats()
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/priyanshushe/EcoSessionTree.git
-cd EcoSessionTree
+git clone https://github.com/Preetiraj01/EcoSphere.git
+cd EcoSphere
 ```
 
 ### 2. Create a Virtual Environment
@@ -655,7 +656,7 @@ pip install Flask requests python-dotenv
 
 ## 🔐 Configuration
 
-EcoSessionTree uses environment variables for sensitive configuration.
+EcoSphere uses environment variables for sensitive configuration.
 
 ### Required Variable
 
@@ -724,7 +725,7 @@ The server is configured to bind to:
 0.0.0.0:5000
 ```
 
-Open the local address in a browser to use EcoSessionTree.
+Open the local address in a browser to use EcoSphere.
 
 ---
 
@@ -811,7 +812,7 @@ HIGH
 
 ## ⚡ Caching
 
-External API requests can be repeated frequently, so EcoSessionTree includes an **in-memory caching mechanism**.
+External API requests can be repeated frequently, so EcoSphere includes an **in-memory caching mechanism**.
 
 Cached API information can remain available for approximately **5 minutes**.
 
@@ -829,7 +830,7 @@ Caching helps reduce unnecessary external requests and improves responsiveness.
 
 ## 📍 Location & Weather
 
-EcoSessionTree can use browser-based geolocation after the user grants location permission.
+EcoSphere can use browser-based geolocation after the user grants location permission.
 
 ### Location Flow
 
@@ -867,7 +868,7 @@ Location access depends on browser permission and availability of the relevant e
 
 ## 🛡️ Security
 
-EcoSessionTree follows basic security practices for configuration and local development.
+EcoSphere follows basic security practices for configuration and local development.
 
 ### 🔐 Environment Secrets
 
@@ -1027,7 +1028,7 @@ PostgreSQL
 ## 🧪 Example User Journey
 
 ```text
-                🌱 EcoSessionTree
+                🌱 EcoSphere
                        │
                        ▼
               Enter Lifestyle Data
@@ -1062,7 +1063,7 @@ PostgreSQL
 
 ## 💡 Design Philosophy
 
-EcoSessionTree is built around three principles:
+EcoSphere is built around three principles:
 
 ### 1. 🌍 Awareness
 
@@ -1121,7 +1122,7 @@ Contributions and improvements are welcome.
 
 ### 1. Fork the Repository
 
-Fork the **EcoSessionTree** repository on GitHub.
+Fork the **EcoSphere** repository on GitHub.
 
 ### 2. Create a Feature Branch
 
@@ -1168,15 +1169,15 @@ Until a license is added, the project should be treated as **all rights reserved
 
 <div align="center">
 
-### Priyanshu Shekhar
+### Preeti Raj
 
 **Final Year BE (CSE) Student**
 
-**Developer · DSA Enthusiast · Frontend Developer · Cloud Learner**
+**Developer · DSA Enthusiast · Full-Stack Developer · Cloud Learner**
 
 [![GitHub](https://img.shields.io/badge/GitHub-priyanshushe-181717?style=for-the-badge&logo=github)](https://github.com/priyanshushe)
 
-[![EcoSessionTree](https://img.shields.io/badge/EcoSessionTree-Repository-2ea44f?style=for-the-badge&logo=github)](https://github.com/priyanshushe/EcoSessionTree)
+[![EcoSphere](https://img.shields.io/badge/EcoSessionTree-Repository-2ea44f?style=for-the-badge&logo=github)](https://github.com/Preetiraj01/EcoSphere)
 
 </div>
 
@@ -1186,7 +1187,7 @@ Until a license is added, the project should be treated as **all rights reserved
 
 ## 🌱 Track your footprint. Improve your habits. Grow your Eco Twin.
 
-**EcoSessionTree — Making sustainability measurable, interactive, and engaging.**
+**EcoSphere — Making sustainability measurable, interactive, and engaging.**
 
 ⭐ **If you find this project interesting, consider giving the repository a star!** ⭐
 
